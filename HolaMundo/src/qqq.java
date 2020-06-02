@@ -1,6 +1,6 @@
 
 public class qqq {
 
-	// desde el pc
-} 
+}
+  // desde la web
 
